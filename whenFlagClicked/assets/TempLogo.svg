@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 360 360" width="350px" height="350px" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="276.304" y1="84.832" x2="276.304" y2="272.281" id="gradient-1" gradientTransform="matrix(-0.248459, 0.968643, -0.691145, -0.17728, 420.487248, -50.524597)">
+      <stop offset="0" style="stop-color: rgba(32, 52, 238, 1)"/>
+      <stop offset="1" style="stop-color: rgba(12, 26, 156, 1)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="276.304" y1="84.832" x2="276.304" y2="272.281" id="gradient-2" gradientTransform="matrix(0.139188, -0.974691, 1.000681, 0.138439, 124.095891, 422.438187)">
+      <stop offset="0" style="stop-color: rgba(0, 17, 255, 1)"/>
+      <stop offset="1" style="stop-color: rgba(0, 10, 153, 1)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="36.679" y1="29.142" x2="36.679" y2="350" id="gradient-0" gradientTransform="matrix(1.004417, -0.026212, 0.038954, 1.483045, 3.877443, -8.599972)">
+      <stop offset="0" style="stop-color: rgb(0, 5, 152);"/>
+      <stop offset="1" style=""/>
+    </linearGradient>
+  </defs>
+  <g style="" transform="matrix(1.205906, 0, 0, 1.221209, -133.190613, -97.064507)" bx:origin="-0.120014 0">
+    <path style="fill-rule: nonzero; fill: url(#gradient-1); paint-order: fill; stroke: url(#gradient-2); stroke-width: 3.30639px;" d="M 172.713 109.403 C 196.952 82.706 233.939 76.84 256.527 91.186 C 276.346 103.773 270.113 137.757 318.456 137.259 C 367.066 136.758 373.296 102.576 404.833 125.04 L 378.064 258.195 C 346.278 236.338 340.048 270.52 291.438 271.021 C 243.095 271.519 251.309 236.672 229.509 224.948 C 205.942 212.274 169.934 216.468 145.695 243.165"/>
+  </g>
+  <path style="fill-rule: nonzero; stroke-width: 0px; stroke-linejoin: round; stroke: rgb(0, 0, 0); fill: url(#gradient-0);" d="M 68.791 43.699 L 5 344.957 C 9.958 355 9.958 355 14.916 355 L 80.588 33.739 C 73.468 33.629 73.75 33.657 68.791 43.699 Z" bx:origin="0 -0.089392"/>
+</svg>

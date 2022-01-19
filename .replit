@@ -1,0 +1,6 @@
+start = "npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH;";
+run = "cd ~/whenFlagClicked/whenFlagClicked/; HOST=0.0.0.0 PORT=3000 npm run dev;";
+[packager]
+ignoredPaths=["~/whenFlagClicked/whenFlagClicked/"]
+ignoredPackages=["node-fetch", "nuxt_plugin_iconplugin_20f334b4", "nuxt_plugin_pluginclient_5475c3ae", "nuxt_plugin_workbox_15c4081f", "vue-no-ssr", "defu", "ufo", "unfetch", "axios", "vue-router", "nuxt_plugin_metaplugin_2a427f9c", "nuxt_plugin_pluginserver_3b7e8fb1", "vue-client-only", "vue-meta", "nuxt_plugin_plugin_3409b12d", "property-information", "nuxt_plugin_axios_76b277c3", "vue"]
+# cd ~/whenFlagClicked/whenFlagClicked/; HOST=0.0.0.0 PORT=3000 npm run dev;
